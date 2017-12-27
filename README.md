@@ -1,5 +1,4 @@
-Aprender sobre Blockchain creando una
-
+APRENDE SOBRE BLOCKCHAIN CREANDO UNA
 Este código fué realizado originalmente por Daniel van Flymen
 
 Acá el artículo original:
